@@ -1,0 +1,164 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu-con{
+
+	
+}
+
+
+
+.navbar-brand > img {
+    max-width: 45%;
+    margin: 0px 108px;
+}
+
+.navbar-default {
+
+    background-color: transparent;
+    border-color: transparent;
+
+}
+
+.navbar-right {
+   
+    margin-right: 84px;
+    margin-top: 21px;
+}
+
+.jumbotron {
+
+    background-color: transparent;
+    margin: 0px 65px;
+
+}
+
+.jumbotron h2 {
+    background-color: rgba( 0, 0, 0, .5);
+    color: #ffff;
+    display: inline-block;
+    padding: 7px 18px;
+   
+
+}
+
+.jumbotron p{
+	width: 500px;
+	color: #ffff;
+}
+
+
+
+span.underline-one{
+
+	display: block;
+margin: 0px 0px;
+width: 100%;
+padding: 0px;
+border-bottom: 8px solid #E4E4E4;
+float: left;
+
+}
+
+
+#contact{
+
+    background-color: #F14736;
+
+}
+
+
+.one{
+
+    margin: 35px 118px;
+    position: relative;
+}
+
+.two{
+
+    position: absolute;
+    left: 781px;
+    top: 142px;
+}
+
+.one h1{
+    text-transform: uppercase;
+    color: #ffff;
+
+
+}
+
+.one p{
+
+   margin-right: 24px; 
+   color: #ffff;
+}
+
+
+.two p{
+
+   margin-right: 213px;
+    margin-top: 38px;
+}
+
+
+
+.hsp{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    height: 263px;
+    width: 398px;
+    margin-top: 73px;
+    position: relative;
+}
+
+
+
+.hocars{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    height: 130px;
+    width: 514px;
+    margin: 27px 0px;
+
+
+}
+
+.form{
+    margin-left: 116px;
+    position: relative;
+
+
+}
+
+.from-control{
+
+    width: 37%;
+padding: 14px;
+margin-bottom: 20px;
+background: transparent;
+border-color: #999999;
+box-shadow: none;
+color: #fff;
+border-radius: 10px;
+border-style: groove;
+margin: 11px 16px;
+}
+
+
+
+
+
+#footer{
+
+    background-color: #F33E2D;
+    text-align: center;
+    color: #ffff;
+    padding: 43px;
+}
