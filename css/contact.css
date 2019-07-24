@@ -131,6 +131,11 @@ float: left;
 
 }
 
+.form {
+    margin-left: 99px;
+    margin-bottom: 27px;
+}
+
 .label{
     color: #ffff;
 }
